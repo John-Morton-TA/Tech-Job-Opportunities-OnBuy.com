@@ -11,7 +11,7 @@ Since being awarded as the **'eCommerce Company of the Year'** at the 2020 UK Bu
 
 We are on a mission to provide ‘the most transparent and fair-trading platform’ for sellers, and a place where buyers can easily find what they need, every day. What sets OnBuy apart from other marketplaces is that we don’t compete with our sellers, we don’t sell our own products and we don’t have our own warehouses, which creates a more efficient business model that allows us to focus on the customer experience and helps us to reinforce trust in our sellers, and the platform itself. 
 
-More recently we received PCR Awards **'Online Retailer of the Year 2021'** and have been moving from strength-to-strength with new partnerships with Hermes, ShipStation and LEGO just to name a few - consistently striving to build the best-in-class eCommerce platform for buyers and sellers alike!
+More recently we received PCR Awards **'Online Retailer of the Year 2021'** and have been moving from strength-to-strength with new partnerships including Hermes, ShipStation and LEGO just to name a few - consistently striving to build the best-in-class eCommerce platform for buyers and sellers alike!
 
 ## Let's talk Tech 🖥️
 
