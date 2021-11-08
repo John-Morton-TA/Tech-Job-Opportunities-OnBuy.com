@@ -20,14 +20,21 @@ Our business is at a pivotal stage in it's scaling, where every project complete
 
 ## Live Roles Available now! 💼
 All roles are fully remote. You must be based in the UK & have valid Right To Work documentation.
-[Lead PHP Developer](https://www.onbuy.com/gb/careers/lead-php-developer/).
-[Senior PHP Developer](https://www.onbuy.com/gb/careers/senior-php-developer/).
-[Solution Architect](https://www.onbuy.com/gb/careers/solution-architect/).
-[Performance Tester](https://www.onbuy.com/gb/careers/performance-tester/).
-[QA Tester](https://www.onbuy.com/gb/careers/qa-tester/).
-[Integrations QA Tester](https://www.onbuy.com/gb/careers/qa-tester-integrations/).
-[Database Administrator](https://www.onbuy.com/gb/careers/database-administrator-mysql/).
-[Scrum Master](https://www.onbuy.com/gb/careers/scrum-master/).
+- [Lead PHP Developer](https://www.onbuy.com/gb/careers/lead-php-developer/)
+
+- [Senior PHP Developer](https://www.onbuy.com/gb/careers/senior-php-developer/)
+
+- [Solution Architect](https://www.onbuy.com/gb/careers/solution-architect/)
+
+- [Performance Tester](https://www.onbuy.com/gb/careers/performance-tester/)
+
+- [QA Tester](https://www.onbuy.com/gb/careers/qa-tester/)
+
+- [Integrations QA Tester](https://www.onbuy.com/gb/careers/qa-tester-integrations/)
+
+- [Database Administrator](https://www.onbuy.com/gb/careers/database-administrator-mysql/)
+ 
+- [Scrum Master](https://www.onbuy.com/gb/careers/scrum-master/)
 
 
 
